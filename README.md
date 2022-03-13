@@ -1,2 +1,1 @@
-# hello
-hello
+so this is my first repo
